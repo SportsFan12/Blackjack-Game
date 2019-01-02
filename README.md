@@ -1,6 +1,6 @@
 Author: Marion Veloria (contact via mvel605@aucklanduni.ac.nz)
 
-Started: 22/5/18
+Date Started: 22/5/18
 
 Title: Blackjack Game
 
