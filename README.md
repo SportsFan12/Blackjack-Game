@@ -7,3 +7,5 @@ Title: Blackjack Game
 Description: This program is my version of the game Blackjack using Python.
 
 Requirements: In order to run the program I suggest you download python's IDLE (Integrated Development and Learning Environment) or something similiar.
+
+Note: Made entirely by myself and not inspired by a tutorial.
